@@ -216,7 +216,6 @@ Our reading of the evidence,
 │   ├── mlqa_vi.jsonl              #   500 questions
 │   └── ifeval.jsonl               #   300 prompts
 ├── figures/                       # the charts on this page
-├── results/9_arms_data.csv        # every number behind the charts, with sources
 └── README.md
 ```
 
